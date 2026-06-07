@@ -3,3 +3,4 @@ api-server/.replit-artifact
 api-server/node_modules
 lib/api-zod/node_modules
 lib/db/node_modules
+scripts/node_modules

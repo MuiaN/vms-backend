@@ -2,6 +2,7 @@
   "name": "vms-backend",
   "version": "0.0.0",
   "private": true,
+  "packageManager": "pnpm@10.26.1",
   "type": "module",
   "scripts": {
     "build": "pnpm --filter @workspace/api-server run build",

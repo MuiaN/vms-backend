@@ -1,0 +1,74 @@
+[
+  {
+    "vehicle_id": 1,
+    "origin_lat": 48.7758, "origin_lng": 9.1829,
+    "dest_lat":   48.7758, "dest_lng":   9.1829,
+    "route_start": "2026-06-04T08:00:00Z",
+    "total_km": 0, "speed_kmh": 0,
+    "heading": 0, "status": "At Facility"
+  },
+  {
+    "vehicle_id": 2,
+    "origin_lat": 48.7758, "origin_lng": 9.1829,
+    "dest_lat":   48.8200, "dest_lng":   9.2500,
+    "route_start": "2026-06-04T10:00:00Z",
+    "total_km": 6, "speed_kmh": 12,
+    "heading": 48, "status": "QC Transfer"
+  },
+  {
+    "vehicle_id": 3,
+    "origin_lat": 48.7758, "origin_lng": 9.1829,
+    "dest_lat":   48.7758, "dest_lng":   9.1829,
+    "route_start": "2026-06-04T06:00:00Z",
+    "total_km": 0, "speed_kmh": 0,
+    "heading": 180, "status": "Staging for Dispatch"
+  },
+  {
+    "vehicle_id": 4,
+    "origin_lat": 48.7758, "origin_lng": 9.1829,
+    "dest_lat":   52.3676, "dest_lng":   4.9041,
+    "route_start": "2026-06-03T21:00:00Z",
+    "total_km": 900, "speed_kmh": 15,
+    "heading": 330, "status": "In Transit"
+  },
+  {
+    "vehicle_id": 5,
+    "origin_lat": 48.7758, "origin_lng": 9.1829,
+    "dest_lat":   51.5074, "dest_lng":  -0.1278,
+    "route_start": "2026-06-03T13:00:00Z",
+    "total_km": 1200, "speed_kmh": 13,
+    "heading": 292, "status": "In Transit"
+  },
+  {
+    "vehicle_id": 6,
+    "origin_lat": 48.7758, "origin_lng": 9.1829,
+    "dest_lat":  -33.8688, "dest_lng": 151.2093,
+    "route_start": "2026-05-25T17:00:00Z",
+    "total_km": 17000, "speed_kmh": 23,
+    "heading": 128, "status": "In Port"
+  },
+  {
+    "vehicle_id": 7,
+    "origin_lat": 48.7758, "origin_lng": 9.1829,
+    "dest_lat":   48.7758, "dest_lng":   9.1829,
+    "route_start": "2026-06-04T07:00:00Z",
+    "total_km": 0, "speed_kmh": 0,
+    "heading": 270, "status": "At Facility"
+  },
+  {
+    "vehicle_id": 8,
+    "origin_lat": 48.7758, "origin_lng": 9.1829,
+    "dest_lat":   48.7758, "dest_lng":   9.1829,
+    "route_start": "2026-06-04T09:00:00Z",
+    "total_km": 0, "speed_kmh": 0,
+    "heading": 90, "status": "Staging for Dispatch"
+  },
+  {
+    "vehicle_id": 9,
+    "origin_lat": 48.7758, "origin_lng": 9.1829,
+    "dest_lat":  -33.8688, "dest_lng": 151.2093,
+    "route_start": "2026-05-28T17:00:00Z",
+    "total_km": 19000, "speed_kmh": 20,
+    "heading": 125, "status": "In Transit"
+  }
+]

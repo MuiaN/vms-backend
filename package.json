@@ -1,0 +1,14 @@
+{
+  "name": "vms-backend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "pnpm --filter @workspace/api-server run build",
+    "start": "node api-server/dist/index.mjs",
+    "db:push": "pnpm --filter @workspace/db run push"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3"
+  }
+}

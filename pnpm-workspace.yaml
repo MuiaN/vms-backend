@@ -1,0 +1,8 @@
+packages:
+  - api-server
+  - lib/*
+
+autoInstallPeers: false
+
+onlyBuiltDependencies:
+  - esbuild
